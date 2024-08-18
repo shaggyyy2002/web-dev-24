@@ -1,1 +1,1 @@
-# web-dev-24
+# 100xdevs Cohort 3 Assignments
